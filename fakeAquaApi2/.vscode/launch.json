@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FakeApplication<fake>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.aqua.fake.Application",
+            "projectName": "fake",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+       
+    ]
+}
